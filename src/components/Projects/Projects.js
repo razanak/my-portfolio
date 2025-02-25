@@ -66,7 +66,7 @@ function Projects() {
               
               title="E-commerce Web App"
               description="An E-commerce web app built with React that allows users to browse products, add items to the cart, and securely complete purchases with a smooth, responsive interface."
-              ghLink="https://github.com/rhttps://github.com/razanak/E-commerce.gitazanak/my-portfolio.git"
+              ghLink="https://github.com/razanak/E-commerce.git"
             />
           </Col>
         </Row>
