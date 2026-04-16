@@ -9,8 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Razan Abu Khurj </span>
-            from <span className="purple"> Palestine. </span>
-          
+            currently based in  <span className="purple"> London, United Kingdom. </span>
             I have completed my Bachelor of Science (B.S.) in Computer Engineering from Eastern Mediterranean University
             <br />
             <br />
