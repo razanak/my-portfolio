@@ -31,8 +31,9 @@ function Projects() {
             <ProjectCard
               
               title="To-do List"
-              description="A simple and interactive To-Do List app built using React and JavaScript, allowing users to add, manage, and delete tasks efficiently."
-              ghLink="https://github.com/razanak/todolist-react"
+              description="A simple and interactive To-Do List app built using HTML, CSS and Javascript, allowing users to add, manage, and delete tasks efficiently."
+              ghLink="https://github.com/razanak/To-Do-List-JS"
+              demoLink="https://razanak.github.io/To-Do-List-JS/"  
              
             />
           </Col>
