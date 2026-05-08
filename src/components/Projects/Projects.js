@@ -37,6 +37,16 @@ function Projects() {
              
             />
           </Col>
+           <Col md={4} className="project-card">
+            <ProjectCard
+              
+              title="Quiz App"
+              description="A simple quiz app built with HTML, CSS, and JavaScript that lets users answer questions and get instant scores."
+              ghLink="https://github.com/razanak/Quiz-App-JS"
+              demoLink="https://razanak.github.io/Quiz-App-JS/"  
+             
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
