@@ -27,10 +27,7 @@ function AboutCard() {
             </li>
           </ul> */}
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Innovation thrives where curiosity meets determination."{" "}
-          </p>
-          <footer className="blockquote-footer">Razan</footer>
+          
         </blockquote>
       </Card.Body>
     </Card>
