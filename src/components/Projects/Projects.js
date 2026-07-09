@@ -37,6 +37,17 @@ function Projects() {
              
             />
           </Col>
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              
+              title="AI Image Classifier"
+              description="A web app that classifies uploaded images using a pretrained deep learning model (MobileNetV2, trained on ImageNet"
+              ghLink="https://github.com/razanak/ai-image-classifier.git"
+              demoLink="https://ai-image-classifier-7gzbuwcxl79dsas6louchm.streamlit.app/"  
+             
+            />
+          </Col>
            <Col md={4} className="project-card">
             <ProjectCard
               

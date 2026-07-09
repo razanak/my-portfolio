@@ -13,7 +13,7 @@ function AboutCard() {
             I have completed my Bachelor of Science (B.S.) in Computer Engineering from Eastern Mediterranean University
             <br />
             <br />
-            I am passionate about web development and digital innovation, always eager to explore emerging technologies and industry trends.
+            I am passionate about software development and digital innovation, always eager to explore emerging technologies and industry trends.
           </p>
           {/* <ul>
             <li className="about-activity">
