@@ -30,10 +30,10 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               
-              title="To-do List"
-              description="A simple and interactive To-Do List app built using HTML, CSS and Javascript, allowing users to add, manage, and delete tasks efficiently."
-              ghLink="https://github.com/razanak/To-Do-List-JS"
-              demoLink="https://razanak.github.io/To-Do-List-JS/"  
+              title="Cats VS Dogs Classifier"
+              description="A cat vs. dog image classifier built with transfer learning on MobileNetV2 — upload a photo, get an instant prediction with confidence score."
+              ghLink="https://github.com/razanak/cats-vs-dogs-classifier"
+              demoLink="https://cats-vs-dogs-classifier-tfcnrxftyjgmui6jlkyzyg.streamlit.app/"  
              
             />
           </Col>
@@ -45,6 +45,16 @@ function Projects() {
               description="A web app that classifies uploaded images using a pretrained deep learning model (MobileNetV2, trained on ImageNet"
               ghLink="https://github.com/razanak/ai-image-classifier.git"
               demoLink="https://ai-image-classifier-7gzbuwcxl79dsas6louchm.streamlit.app/"  
+             
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              
+              title="To-do List"
+              description="A simple and interactive To-Do List app built using HTML, CSS and Javascript, allowing users to add, manage, and delete tasks efficiently."
+              ghLink="https://github.com/razanak/To-Do-List-JS"
+              demoLink="https://razanak.github.io/To-Do-List-JS/"  
              
             />
           </Col>
